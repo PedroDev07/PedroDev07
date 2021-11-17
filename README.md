@@ -1,10 +1,10 @@
-### Hi there, I'm Samuel 👋
+### Hi there, I'm Pedro Lucas 👋
 
-## I'm a CS Student, Developer and a Geek
+## I'm a python student for datascience and machine learning! =)
 
 - 🔭 Student in Unievangelica! 👨‍💻
 - 🧠 Learning python and powerBI 💻
-- 🥇 2021 Goals:  ⚛️
+- 🥇 2021 Goals: Change work ⚛️
 - ⚡ Fun fact: I love to play games 🎮
 
 ### Connect with me
