@@ -1,6 +1,6 @@
 ### Hi there, I'm Pedro Lucas 👋
 
-## I'm a python student for datascience and machine learning! =)
+## I'm a python student for data science and machine learning! =)
 
 - 🔭 Student in Unievangelica! 👨‍💻
 - 🧠 Learning python and powerBI 💻
@@ -41,4 +41,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-neves&layout=compact&hide=html" /></p>
 
 [instagram]: https://www.instagram.com/11pedrolucas
-[linkedin]: www.linkedin.com/in/pedro-lucas7
+[linkedin]: https://www.linkedin.com/in/pedro-lucas7
