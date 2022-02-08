@@ -3,7 +3,7 @@
 ## I'm a python student for data science and machine learning! =)
 
 - 🔭 Student in Unievangelica! 👨‍💻
-- 🧠 Learning python and powerBI 💻
+- 🧠 Learning python 💻
 - 🥇 2021 Goals: Change work ⚛️
 - ⚡ Fun fact: I love to play games 🎮
 
