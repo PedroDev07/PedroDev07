@@ -10,6 +10,7 @@ Com mais de 4 anos de experiência progressiva em SRE e Engenharia de DevOps, so
 ![Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat&logo=airflow)
 ![Spark](https://img.shields.io/badge/-Spark-333333?style=flat&logo=spark)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
 
 **Utilidades**
 
