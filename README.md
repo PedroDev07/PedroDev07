@@ -21,7 +21,7 @@ Com mais de 4 anos de experiência progressiva em SRE e Engenharia de DevOps, so
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![AmazonWebService](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon)
+![AmazonWebService](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
@@ -31,6 +31,10 @@ Com mais de 4 anos de experiência progressiva em SRE e Engenharia de DevOps, so
 ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
+**Automation**
+
+![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
+![ShellScript](https://img.shields.io/badge/-ShellScript-333333?style=flat&logo=Shell)
 
 **Ferramentas de desenvolvimento**
 
